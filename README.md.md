@@ -12,7 +12,7 @@ Dokumentasi ini menyajikan rangkuman pengembangan sistem dari **Evaluasi Pertemu
 - **Kelas:** 7A - Teknik Informatika
 - **SEED Dataset:** 1008
 - **Institusi:** Universitas Muhammadiyah Sukabumi (UMMI)
-- **Repositori:** [github.com/shintaLavera/simuteh-2330511008](https://github.com/shintaLavera/simuteh-2330511008)
+- **Repositori:** [github.com/shintaLavera/simuteh-2330511008](https://github.com/shintaLavera/simuteh-2330511008.git)](https://github.com/shintaLavera/simuteh-2330511008)
 
 ---
 
